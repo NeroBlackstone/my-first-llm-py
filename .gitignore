@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Training artifacts
+*.pt
+*.bin
+*.log
+out/
+data/
+
+# poetry.lock 建议提交（不在忽略列表）
